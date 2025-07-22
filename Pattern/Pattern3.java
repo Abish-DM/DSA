@@ -1,3 +1,12 @@
+// Input: Enter the number: 6
+// Output:
+// 1
+// 1 2
+// 1 2 3
+// 1 2 3 4
+// 1 2 3 4 5
+// 1 2 3 4 5 6
+
 import java.util.*;
 public class Pattern3 {
     public static void main(String[] abish){

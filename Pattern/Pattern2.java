@@ -1,3 +1,12 @@
+// Input: Enter the value of N : 6
+// Output:
+// * 
+// * * 
+// * * *
+// * * * *
+// * * * * *
+// * * * * * *
+
 import java.util.*;
 class Pattern2 {
     public static void main(String [] abi){

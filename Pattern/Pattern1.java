@@ -1,3 +1,12 @@
+// Input: Enter the value of N : 6
+// Output:
+// * * * * * *
+// * * * * * *
+// * * * * * *
+// * * * * * *
+// * * * * * *
+// * * * * * *
+
 import java.util.Scanner;
 class Main {
     static void pattern1(int N){

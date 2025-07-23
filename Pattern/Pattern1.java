@@ -1,3 +1,4 @@
+// Rectangular Star Pattern
 // Input: Enter the value of N : 6
 // Output:
 // * * * * * *

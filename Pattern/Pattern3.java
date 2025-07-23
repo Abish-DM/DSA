@@ -1,3 +1,4 @@
+//Right-Angled Number Pyramid
 // Input: Enter the number: 6
 // Output:
 // 1

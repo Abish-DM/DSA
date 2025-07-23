@@ -1,3 +1,4 @@
+// Inverted Numbered Right Pyramid
 // Input: Enter the number = 6
 // Output:
 // 1 2 3 4 5 6

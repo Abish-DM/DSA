@@ -16,7 +16,7 @@ public class Pattern3 {
         System.out.print("Enter the number: ");
         n = sc.nextInt();
         for(int i = 0; i < n; i++) {
-            int c = 1;  // Reset each row
+            int c = 1;
             for(int j = 0; j <= i; j++) {
                 System.out.print(c + " ");
                 c++;
